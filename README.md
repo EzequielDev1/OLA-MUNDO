@@ -1,2 +1,2 @@
-# OLA-MUNDO
-3 REPOSITORIO
+# Olá, Mundo
+3 REPOSITORIO criado durante uma aula!
